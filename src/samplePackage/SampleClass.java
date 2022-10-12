@@ -7,8 +7,8 @@ public class SampleClass
 		int a;
 		for(a=1;a<=10;a++)
 		{
-			System.out.println(2*a);
-			System.out.println(3*a);
+			
+			System.out.println(a);
 		}
 		
 	}
